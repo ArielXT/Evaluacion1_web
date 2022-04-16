@@ -1,7 +1,7 @@
 {
-  "name": "mongochat",
+  "name": "evalaucion1",
   "version": "1.0.0",
-  "description": "Simple chat app using sockets",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
